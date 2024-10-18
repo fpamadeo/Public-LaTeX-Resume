@@ -25,7 +25,7 @@ With the LateX header already in place, I could just use the Letter DocumentClas
 - ATS compatibility design choices:
   - Single column format
   - Clickable links, but display text is just the link in plain text.
-  -
+  - No pictures and fancy formatting
 
 ### Issue/s encountered.
 
