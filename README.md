@@ -6,6 +6,10 @@ The public repo for the LaTeX code templates for my one-column resume and cover 
 
 ![Resume Screenshot](/resume_preview.png)
 
+- Screenshot only shows the first page of my resume; a complete copy can be seen in the root of this reporsitory
+
+![Cover Letter Screenshot](/Letter_preview.png)
+
 ## Motivation
 
 I've started to incorporate my [brag document](https://jvns.ca/blog/brag-documents/#template) into my resume to make sure I keep track of my professional achievements and overall experience. However, my word document just keeps on getting larger beyond reasonable maintenance, causing it to be harder to format and tailor for each job application.
